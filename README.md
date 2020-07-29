@@ -12,8 +12,11 @@ This project is including all tools for Face Recognition Application covering co
 **recignize_video.py** For real time face identification.
 
 ## Other Directories
+
 **dataset** to store face images
+
 **face_detection_model** all models and raw files for project
+
 **output** Embedded/Train models pickle files
 
 
